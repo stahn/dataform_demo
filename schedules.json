@@ -21,5 +21,10 @@
     "email": {
       "to": ["jo_bloggs@acme.co"]
     }
+  }, {
+    "name": "email",
+    "email": {
+      "to": ["stanislawm@google.com"]
+    }
   }]
 }
