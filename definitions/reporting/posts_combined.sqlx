@@ -34,3 +34,6 @@ select
   parent_id
 from
   ${ref("stg_posts_questions")}
+
+
+--to add assertion fail example (duplicate post_id)
