@@ -13,7 +13,7 @@
     },
     "notifications": [{
       "events": ["failure"],
-      "channels": ["email", "email jo"]
+      "channels": ["email jo"]
     }]
   }],
   "notificationChannels": [{
